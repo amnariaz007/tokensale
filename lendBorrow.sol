@@ -1,13 +1,10 @@
 /**
  *Submitted for verification at BscScan.com on 2023-01-12
 */
-
 // SPDX-License-Identifier: GPL-3.0
 // File: https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/utils/Context.sol
-
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
 pragma solidity ^0.8.0;
-
 /**
  * @dev Provides information about the current execution context, including the
  * sender of the transaction and its data. While these are generally available
